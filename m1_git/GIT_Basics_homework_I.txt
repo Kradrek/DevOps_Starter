@@ -1,0 +1,42 @@
+9763669 (HEAD -> main, origin/styles2, origin/main, origin/develop, origin/HEAD, styles2, develop) HEAD@{0}: merge develop: Fast-forward
+bd728f2 HEAD@{1}: checkout: moving from develop to main
+9763669 (HEAD -> main, origin/styles2, origin/main, origin/develop, origin/HEAD, styles2, develop) HEAD@{2}: checkout: moving from styles2 to develop
+9763669 (HEAD -> main, origin/styles2, origin/main, origin/develop, origin/HEAD, styles2, develop) HEAD@{3}: rebase (finish): returning to refs/heads/styles2
+9763669 (HEAD -> main, origin/styles2, origin/main, origin/develop, origin/HEAD, styles2, develop) HEAD@{4}: rebase (start): checkout develop
+58b4c97 HEAD@{5}: checkout: moving from develop to styles2
+9763669 (HEAD -> main, origin/styles2, origin/main, origin/develop, origin/HEAD, styles2, develop) HEAD@{6}: rebase (finish): returning to refs/heads/develop
+9763669 (HEAD -> main, origin/styles2, origin/main, origin/develop, origin/HEAD, styles2, develop) HEAD@{7}: rebase (pick): redacted index.html
+962e004 HEAD@{8}: rebase (pick): added two new images
+58b4c97 HEAD@{9}: rebase (start): checkout styles2
+04f34f9 (origin/images2, images2) HEAD@{10}: checkout: moving from images2 to develop
+04f34f9 (origin/images2, images2) HEAD@{11}: checkout: moving from develop to images2
+04f34f9 (origin/images2, images2) HEAD@{12}: rebase (finish): returning to refs/heads/develop
+04f34f9 (origin/images2, images2) HEAD@{13}: rebase (start): checkout images2
+bd728f2 HEAD@{14}: checkout: moving from styles2 to develop
+58b4c97 HEAD@{15}: commit: redacted styles.css
+bd728f2 HEAD@{16}: checkout: moving from develop to styles2
+bd728f2 HEAD@{17}: checkout: moving from images2 to develop
+04f34f9 (origin/images2, images2) HEAD@{18}: commit: redacted index.html
+b0c0ecf HEAD@{19}: commit: added two new images
+bd728f2 HEAD@{20}: checkout: moving from develop to images2
+bd728f2 HEAD@{21}: checkout: moving from main to develop
+bd728f2 HEAD@{22}: merge develop: Fast-forward
+2bbb528 HEAD@{23}: checkout: moving from develop to main
+bd728f2 HEAD@{24}: checkout: moving from main to develop
+2bbb528 HEAD@{25}: checkout: moving from develop to main
+bd728f2 HEAD@{26}: commit (merge): merged and resolved the conflict in index.html
+be650c7 (origin/images, images) HEAD@{27}: merge images: Fast-forward
+fc90a8e HEAD@{28}: checkout: moving from styles to develop
+cc14302 (origin/styles, styles) HEAD@{29}: commit: changed index.html
+4ab2bc3 HEAD@{30}: commit: added styles folder and .css file
+fc90a8e HEAD@{31}: checkout: moving from images to styles
+be650c7 (origin/images, images) HEAD@{32}: commit: changed index.html
+6ab3c4a HEAD@{33}: checkout: moving from styles to images
+fc90a8e HEAD@{34}: checkout: moving from develop to styles
+fc90a8e HEAD@{35}: checkout: moving from images to develop
+6ab3c4a HEAD@{36}: commit: added new folder and images
+fc90a8e HEAD@{37}: checkout: moving from develop to images
+fc90a8e HEAD@{38}: commit: added new file
+2bbb528 HEAD@{39}: checkout: moving from main to develop
+2bbb528 HEAD@{40}: commit: initcommit
+a07f0dc HEAD@{41}: clone: from github.com:Kradrek/homework.git
