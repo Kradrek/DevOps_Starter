@@ -1,0 +1,25 @@
+a63abcf (HEAD -> branch2) HEAD@{0}: rebase (finish): returning to refs/heads/branch2
+a63abcf (HEAD -> branch2) HEAD@{1}: rebase (pick): added endbr2.txt
+a12f055 HEAD@{2}: rebase (pick): add preend.txt
+9086fe0 HEAD@{3}: rebase (pick): added feature.txt
+b1f6969 HEAD@{4}: rebase (start): checkout HEAD~4
+c51bbe6 HEAD@{5}: cherry-pick: added feature.txt
+270df9a HEAD@{6}: checkout: moving from branch1 to branch2
+63d9fab (branch1) HEAD@{7}: merge branch3: Merge made by the 'recursive' strategy.
+e0bf15a HEAD@{8}: commit: added preendb1.txt
+681cf68 HEAD@{9}: checkout: moving from branch3 to branch1
+2cec431 (branch3) HEAD@{10}: commit: added feature.txt
+681cf68 HEAD@{11}: checkout: moving from branch1 to branch3
+681cf68 HEAD@{12}: checkout: moving from branch2 to branch1
+270df9a HEAD@{13}: commit: added endbr2.txt
+6bbf3cf HEAD@{14}: commit: add preend.txt
+b1f6969 HEAD@{15}: commit: added fix.txt
+f26c0c6 HEAD@{16}: commit: added contbr2.txt
+4135da3 HEAD@{17}: commit: added startbr2.txt
+fd6e110 (main) HEAD@{18}: checkout: moving from branch1 to branch2
+681cf68 HEAD@{19}: commit: added contbr1.txt
+ef39c52 HEAD@{20}: commit: added startbr1.txt
+fd6e110 (main) HEAD@{21}: checkout: moving from main to branch1
+fd6e110 (main) HEAD@{22}: checkout: moving from branch1 to main
+fd6e110 (main) HEAD@{23}: checkout: moving from main to branch1
+fd6e110 (main) HEAD@{24}: commit: init commit
